@@ -1,0 +1,4 @@
+algoritmo,expandidos,generados,tiempo_ms_promedio,costo
+BFS,98,122,0.837705,11.5
+DFS,393,852,3.927573,520.0
+A*,40,75,0.343779,11.5
